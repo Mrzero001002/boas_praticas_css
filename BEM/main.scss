@@ -13,20 +13,20 @@
     grid-column-gap: 1%;
 
     &__container {
-        &-imagem {
+        &--imagem {
             width: 100%;
         }
 
-        &-nome {
+        &--nome {
             font-size: 1.2em;
             margin: 8px 0;
         }
 
-        &-descricao {
+        &--descricao {
             color: gray;
         }
     }
-    &__em-destaque {
+    &__em--destaque {
             border: 2px solid gold;
             padding: 8px;
             background-color: #ffff42;
